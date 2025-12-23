@@ -1,0 +1,1 @@
+Preprint covering the initial design of a circular robotic manipulator (CiRM). Also available [[here](https://www.dropbox.com/scl/fi/5ktbolldi7s3gkvwfmhxk/CiRM_InitialDesign.pdf?rlkey=jasag35yxqmzxwkgksnse8zat&e=1&st=ct9cafff&dl=0)].
